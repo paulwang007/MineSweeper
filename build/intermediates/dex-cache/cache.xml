@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/paul/.android/build-cache/8acd7f31e91168b8774b9fc777f7021131c7afe0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d65bddf76810a26492d1dcb0932e25ea9335d397/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/a025f8b64d27c8d2f1e25bf9b054c55b57165f6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_23c7f686cba3d3afd3497ac3a65bc4cf7313ef49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/91f72f250e3b650d5098c2cf5e0404c140299633/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_c51fda7ab980894ca88555766a148e7f7e6f1632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/8acd7f31e91168b8774b9fc777f7021131c7afe0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_d65bddf76810a26492d1dcb0932e25ea9335d397.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Documents/Code/Mine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_33afe8eb8a2651043e54911ce5b499ab40d57b61/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/cf0ace61429d410955f7ea8bc59a1d812b431a7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_6e05665e687ac6b750bbdbaefa598ec903ab2da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/4f451041e6e6d7508fb6c89adc841f2c7098bc86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_aee9dbd2abbda2fb1b0e4fa9d00ca05582ccad6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/8e1cc3e0eab469ef5bba2a02c1fbbe983332cf3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_be014b6ac8143ca20b0d6187ef6f1f81064469b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.1_fee232a17cf5409abe4b1267c7fc023ffc13c50e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/983d0889e44ad7dcf3e1f92dba0287c44b86b935/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_d07ff2087bb8b7a9b3caab7f1c7cfe9ef776bcca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/e7e0f2e6c5295aac62695fc81c9e88b5ff759814/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_929db72eb86a3fe78998d788226b45bcae4c7d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_76bc74e58814dba9cc5a3f49ffa89cdca25cd04b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/b27b7d438725d03e90b3b851fde8be912fd90e07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_070f6ca3e76520350c1f7bf86cdcad47d8e8d9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/butterknife-annotations-8.8.1_fee232a17cf5409abe4b1267c7fc023ffc13c50e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/9201e91bfbfa4cbeeac3371654ad2cae0745bd8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_a0d2096a445690cd7ff073d1f8e93b4e327bdcec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Documents/Code/Mine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="66bf99c0b1dc19c6e22dafcaf33d543d8bc88aac">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_58510ccc3a19c77d10c3240ecb3e80cd2f649dc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0-alpha1_9da6408c9893c513d5a3b7eb0d4aef9f33d8d6b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paul/.android/build-cache/835f38eba4f0e8f55a92431ef1f9e7d8333d7dae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/paul/Documents/Code/Mine/app/build/intermediates/pre-dexed/release/classes_64ae0b6d36a89a17e2a584acbaedd023bb46ee4b.jar" />
+    </item>
+
+</items>
